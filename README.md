@@ -14,8 +14,8 @@ The fomofollower is a program that I made that drives a robot around to follow m
 
 4. Type the following commands to copy my code into the smart car server code (Freenove's code):
 
-      ``- cp fomofollower/app Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/Code/Server/fomofollower_app
-      - cp fomofollower/drive_smart_car_fomofollower.py Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/Code/Server``
+      - ``cp fomofollower/app Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/Code/Server/fomofollower_app``
+      - ``cp fomofollower/drive_smart_car_fomofollower.py Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/Code/Server``
 
 5. Change the current directory to Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/Code/Server with:
 
