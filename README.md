@@ -23,6 +23,8 @@ The fomofollower is a program that I made that drives a robot around to follow m
 
 6. Put the smart car on the ground and start the fomofollower with:
 
-      ``python drive_smart_car_fomofollower.py 100``
+      ``python drive_smart_car_fomofollower.py 500``
+   
+   The 500 is a constant that defines how sharply the robot rotates. You can try adjusting it if you want.
 
 7. Wear a bright red shirt and stand in front of the smart car's camera, and the smart car should start going toward you!
