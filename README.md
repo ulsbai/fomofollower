@@ -4,4 +4,4 @@ The fomofollower is a program that I made that drives a robot around to follow m
 
 # Setup for a Freenove Smart Car for Raspberry Pi
 
-See [smart_car_setup.md](smart_car_setup.md)
+See [SMART_CAR_SETUP.md](SMART_CAR_SETUP.md)
